@@ -35,7 +35,7 @@ int findLongestValidParentheses(const string& inputString) {
         }
     }
 
-    return longestLength;// Handle empty string
+    return longestLength;
 }
 
 int main() {
